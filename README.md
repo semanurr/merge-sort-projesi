@@ -18,3 +18,5 @@
 ## Big-O yöntemi
 
 O[nlogn]
+
+https://www.patika.dev/tr
